@@ -1,0 +1,19 @@
+.navbar-nav {
+    display: flex;
+    justify-content: start;
+}
+
+.nav-link {
+    margin-left: 50px;
+    font-size: 20px;
+    color: grey;
+}
+
+.active {
+    font-size: 21px;
+    font-weight: 500;
+}
+
+.nav-item:hover {
+    color: green;
+}
